@@ -24,6 +24,9 @@ module.exports = {
     // remark plugin will transform the markdown file to html
     `gatsby-transformer-remark`,
     `gatsby-transformer-sharp`,
+    
+    `gatsby-plugin-styled-components`,
+
     `gatsby-plugin-sharp`,
     {
       resolve: `gatsby-plugin-manifest`,
