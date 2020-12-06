@@ -5,14 +5,10 @@ import styled from 'styled-components';
 import Layout from "../components/layout"
 import Image from "../components/image"
 import SEO from "../components/seo"
+import { BlogTitle } from '../styled-elements/header';
 
 const BlogLink = styled(Link)`
   text-decoration: none;
-`
-
-const BlogTitle = styled.h3`
-  margin-bottom: 20px;
-  color: blue;
 `
 
 const IndexPage = ({ data }) => {
@@ -21,7 +17,7 @@ const IndexPage = ({ data }) => {
     <Layout>
       <SEO title="Home" />
       <div>
-        <h1>Qingyuan's Thoughts</h1>
+        <h2>How many posts in this blog?</h2>
         <h4>{data.allMarkdownRemark.totalCount}</h4>
         {
           data.allMarkdownRemark.edges.map(({ node }) => (
