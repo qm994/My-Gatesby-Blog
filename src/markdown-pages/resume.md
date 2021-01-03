@@ -35,6 +35,7 @@ a:active { color:#7476b4; text-decoration: underline; }
 <p style="text-align: center;">
     <span style="font-family:Didot; font-size:1.5em;">
         **Email:**
+        <a href='mailto: ma791778711@gmail.com'>ma791778711@gmail.com</a>
         <a href='mailto: qm28@georgetown.edu'>qm28@georgetown.edu</a>
     </span>
 </p>
