@@ -60,6 +60,16 @@ a:active { color:#7476b4; text-decoration: underline; }
 
 <span style="font-family:Didot; font-size:2em;">Side Projects</span>
 - - - -
+
+**DEV-CONNECTOR:Full Stack Node.js backend and React.js Redux frontend application** <br />
+[DEV-CONNECTOR App](https://arcane-ridge-94605.herokuapp.com)
+> * Designed the application backend services and frontend data flow;
+> * Built the backend services with Node.js and stored the data in MongoDB, and tested with Postman;
+> * Implemented JWT authentication for private endpoints;
+> * Built the frontend application with react.js, redux, redux-thunk etc and integrated with backend server;
+> * Deployed app to heroku;
+- - - -
+
 **Python Django Real Estate Web Application** <br />
 [RealEstate App](http://www.qmrealestate.co)
 > * Planned and created PostgreSQL models for the webapp;

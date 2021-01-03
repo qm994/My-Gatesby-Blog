@@ -14,6 +14,8 @@ In my spare time, I have built:
 
 > 2. ecommerce application which integrated with React.js, Redux, Firebase, Stripe(for payment process) and helpe the consumers to buy products.
 
+> 3. An Node.js and react.js application which can be used to connect different developers;
+
 So if you have any good ideas about the full stack projects and want to cooporate with me, please feel free to reach out!
 
 > Here is my [Github](https://github.com/qm994) <br /> 

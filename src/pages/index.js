@@ -19,8 +19,8 @@ const IndexPage = ({ data }) => {
     <Layout>
       <SEO title="Home" />
       <div>
-        <PageHeader>Go to different pages in this post</PageHeader>
-        <ul>
+        {/* <PageHeader>Go to different pages in this post</PageHeader> */}
+        {/* <ul>
           {
             allSitePage.edges
               .filter(edge => edge.node.isCreatedByStatefulCreatePages)
@@ -42,7 +42,7 @@ const IndexPage = ({ data }) => {
             ))
           }
         </ul>
-        <br />
+        <br /> */}
         <PageHeader>How many posts in this blog?</PageHeader>
         <h4>{allMarkdownRemark.totalCount}</h4>
         {
