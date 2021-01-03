@@ -20,7 +20,7 @@ const ProjectSection3 = () => (
           </div>
         </div>
         <div class="card__side card__side--back card__side--back-1">
-          <a target='_blank' href="http://www.qmrealestate.co/" class='btn btn--white'> Go to web </a>
+          <a target='_blank' href="https://arcane-ridge-94605.herokuapp.com" class='btn btn--white'> Go to web </a>
         </div>
       </div>
 )
